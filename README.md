@@ -6,7 +6,7 @@ This is a simple Trip-Form made out of HTML,CSS and PHP . This particular progra
 
 
 
-For the installation demo you can refer : https://youtu.be/5g0ZurU47jY
+For the installation of XAMPP Server you can refer : https://youtu.be/5g0ZurU47jY
 
 ```diff
 + To use this piece of code you need to follow certain steps:-
@@ -18,4 +18,9 @@ For the installation demo you can refer : https://youtu.be/5g0ZurU47jY
 4. Go to your Start button and then type **XAMPP CONTROL PANEL**, a window pops up
 5. Start **Apache,MYSQL** and choose **Admin** from the control panel
 6. Now type localhost/(your file name according to htdocs)
-7. 
+7. The form appears
+![image](https://user-images.githubusercontent.com/83566090/119819503-105e6080-bf0e-11eb-909c-7c7a3efd1c6c.png)
+8. Fill up the form for the interested candidates
+9. You can check the total status of the students from localhost/phpmyadmin under trip database form the ustrip table
+10.  You are good to go.
+
